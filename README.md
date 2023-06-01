@@ -10,7 +10,7 @@
   - Username: pessoa
   - Password: 1234
 
-# Project Featurers
+# Project Features
 
 ## General Features
 

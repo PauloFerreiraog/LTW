@@ -1,5 +1,5 @@
 
-# Login Credentials
+## Login Credentials
 - **Role: User**
   - Username: jonas
   - Password: 1234
@@ -10,23 +10,23 @@
   - Username: pessoa
   - Password: 1234
 
-#Project Featurers
+##Project Featurers
 
-## General Features
+### General Features
 
 - All users can (users can simultaneously be clients and agents):
   - Register a new account.
   - Login and Logout.
   - Edit their profile (at least name, username, password, and e-mail).
 
-## Client Features
+### Client Features
 
 - Clients are be able to:
   - Submit a new ticket optionally choosing a department (e.g., "Accounting").
   - List and track tickets they have submitted.
   - Reply to inquiries (e.g., the agent asks for more details) about their tickets and add more information to already submitted tickets.
 
-## Agent Features
+### Agent Features
 
 - Agents are be able to (they are also clients):
   - List tickets from their departments (e.g., "Accounting"), and filter them in different ways (e.g., by date, by assigned agent, by status, by priority, by hashtag).
@@ -37,7 +37,7 @@
   - List all changes done to a ticket (e.g., status changes, assignments, edits).
   - Manage the FAQ and use an answer from the FAQ to answer a ticket.
 
-## Admin Features
+### Admin Features
 
 - Admins are be able to (they are also agents):
   - Upgrade a client to an agent or an admin.
@@ -47,7 +47,7 @@
 
 
 
-# Project Execution Commands
+## Project Execution Commands
 To run the project, follow these commands:
 
 ```shell

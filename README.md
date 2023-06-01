@@ -10,6 +10,21 @@
   - Username: pessoa
   - Password: 1234
 
+
+
+# Project Execution Commands
+To run the project, follow these commands:
+
+```shell
+git clone https://github.com/PauloFerreiraog/LTW.git
+cd LTW
+git checkout final-delivery-v1
+sqlite3 tickets.db < tickets.sql
+sqlite3 tickets.db < populate.sql
+php -S localhost:9000
+```
+
+
 # Project Features
 
 ## General Features
@@ -45,17 +60,5 @@
   - Assign agents to departments.
   - Control the whole system.
 
-
-
-# Project Execution Commands
-To run the project, follow these commands:
-
-```shell
-git clone https://github.com/PauloFerreiraog/LTW.git
-cd LTW
-git checkout final-delivery-v1
-sqlite3 tickets.db < tickets.sql
-sqlite3 tickets.db < populate.sql
-php -S localhost:9000
 
 

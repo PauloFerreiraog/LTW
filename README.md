@@ -12,21 +12,21 @@
 
 ## General Features
 
-- All users should be able to (users can simultaneously be clients and agents):
+- All users can (users can simultaneously be clients and agents):
   - Register a new account.
   - Login and Logout.
   - Edit their profile (at least name, username, password, and e-mail).
 
 ## Client Features
 
-- Clients should be able to:
+- Clients are be able to:
   - Submit a new ticket optionally choosing a department (e.g., "Accounting").
   - List and track tickets they have submitted.
   - Reply to inquiries (e.g., the agent asks for more details) about their tickets and add more information to already submitted tickets.
 
 ## Agent Features
 
-- Agents should be able to (they are also clients):
+- Agents are be able to (they are also clients):
   - List tickets from their departments (e.g., "Accounting"), and filter them in different ways (e.g., by date, by assigned agent, by status, by priority, by hashtag).
   - Change the department of a ticket (e.g., the client chose the wrong department).
   - Assign a ticket to themselves or someone else.
@@ -37,7 +37,7 @@
 
 ## Admin Features
 
-- Admins should be able to (they are also agents):
+- Admins are be able to (they are also agents):
   - Upgrade a client to an agent or an admin.
   - Add new departments, statuses, and other relevant entities.
   - Assign agents to departments.

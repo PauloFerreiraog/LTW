@@ -14,7 +14,7 @@
 To run the project, follow these commands:
 
 ```shell
-git clone https://github.com/FEUP-LTW-2023/project-ltw04g03.git
+git clone https://github.com/PauloFerreiraog/LTW.git
 cd LTW
 git checkout final-delivery-v1
 sqlite3 tickets.db < tickets.sql
